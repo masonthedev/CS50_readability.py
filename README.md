@@ -25,7 +25,6 @@ This program takes user input and calculates the reading level required to under
 
 ## Example
 
-```python
 python text_analyzer.py
 Text: This is a sample text. It contains multiple sentences and some punctuation marks!
 
